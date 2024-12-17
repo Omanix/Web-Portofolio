@@ -19,8 +19,6 @@ html, body {
     
 }
 
-/* card sertificate */
-
 
 .container {
     width: 380px;
@@ -86,6 +84,7 @@ form {
     padding: 0 5px;
     transform: translateY(-50%);
 }
+
 
 .content {
     display: flex;
